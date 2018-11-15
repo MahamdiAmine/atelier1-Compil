@@ -1,0 +1,3 @@
+flex file.lex
+gcc file.c -lfl -o file.o
+./file.o
